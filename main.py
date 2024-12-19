@@ -1,11 +1,10 @@
 # Dataset yang diperbarui
 # Dataset yang diperbarui
 data = [
-    {"Pola Tidur": "Buruk", "Jenis Kelamin": "Laki-laki", "Aktivitas Fisik": "Rendah", "Pola Makan": "Buruk", "Obesitas": "Ya"},
+    {"Pola Tidur": "Buruk", "Jenis Kelamin": "Laki-laki", "Aktivitas Fisik": "Tinggi", "Pola Makan": "Buruk", "Obesitas": "Ya"},
     {"Pola Tidur": "Buruk", "Jenis Kelamin": "Laki-laki", "Aktivitas Fisik": "Rendah", "Pola Makan": "Buruk", "Obesitas": "Ya"},
     {"Pola Tidur": "Buruk", "Jenis Kelamin": "Perempuan", "Aktivitas Fisik": "Rendah", "Pola Makan": "Baik", "Obesitas": "Tidak"},
     {"Pola Tidur": "Cukup", "Jenis Kelamin": "Laki-laki", "Aktivitas Fisik": "Tinggi", "Pola Makan": "Baik", "Obesitas": "Tidak"},
-    {"Pola Tidur": "Cukup", "Jenis Kelamin": "Perempuan", "Aktivitas Fisik": "Tinggi", "Pola Makan": "Baik", "Obesitas": "Tidak"},
     {"Pola Tidur": "Cukup", "Jenis Kelamin": "Perempuan", "Aktivitas Fisik": "Tinggi", "Pola Makan": "Baik", "Obesitas": "Tidak"}
 ]
 
